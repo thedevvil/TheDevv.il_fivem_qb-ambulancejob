@@ -9,6 +9,19 @@ Make price adjustments in the config.lua file.
 Then put it in the [Job] file under the /Resources folder.
 ---
 
+# The Devv.il Web
+
+- [thedevvil.site](https://thedevvil.site)
+
+<p align="center">
+  <img  width="200" height="200" src="https://i.hizliresim.com/cau0xef.png">
+</p>
+
+- [thedevvil.com.tr](https:/thedevvil.com.tr) 
+
+<p align="center">
+  <img  width="200" height="200" src="https://i.hizliresim.com/mir3xf2.png">
+</p>
 
 # qb-ambulancejob
 EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
